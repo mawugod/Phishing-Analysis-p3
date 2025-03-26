@@ -14,7 +14,7 @@
 <picture>![image](https://github.com/user-attachments/assets/f2a1a4ec-6bf5-4972-a3fa-307bc0fe698a)
 </picture>
 
-+ We want to analyze the doc file as seen in index 5. Let’s extract the attached doc file using the ‘-s’ argument to select the particular stream interested in and ‘–d’ argument to dump the file.
++ We want to analyze the doc file as seen in index 5. Let’s extract the attached doc file using the ‘-s’ argument to select the particular stream interested in and ‘–d’ argument to dump the file.  
 <picture>![image](https://github.com/user-attachments/assets/6b625881-7659-45a8-b78b-f28e7a3ce001)
 </picture>
 
@@ -45,26 +45,12 @@
 + I pasted the script in ‘Deepseek generative AI’ tool to explain the code for me and it tells me it is malicious.  
 <picture>  ![image](https://github.com/user-attachments/assets/339666c6-fb06-410f-9890-1cd10e38d31d)
 </picture>
-<picture>![image](https://github.com/user-attachments/assets/d892dbac-609a-4d87-bf5f-ac0124fdefac)
++ 
+<picture>![image](https://github.com/user-attachments/assets/09944e4f-7642-45f9-8b59-3a1224c3d581)
 </picture>
-<picture>![image](https://github.com/user-attachments/assets/4a3d87a0-be7d-41ce-b2d5-79e218f6901e)
++ 
+<picture>![image](https://github.com/user-attachments/assets/490efb97-3972-46dc-be94-cc7b44055272)
 </picture>
 
 
-<picture></picture>
 
-
-<picture></picture>
-
-
-<picture></picture>
-
-
-<picture></picture>
-
-
-<picture></picture>
-
-<picture></picture>
-
-<picture></picture>
