@@ -44,11 +44,10 @@
 
 + I pasted the script in ‘Deepseek generative AI’ tool to explain the code for me and it tells me it is malicious.  
 <picture>  ![image](https://github.com/user-attachments/assets/339666c6-fb06-410f-9890-1cd10e38d31d)
-</picture>
-+ 
+</picture>  
+  
 <picture>![image](https://github.com/user-attachments/assets/09944e4f-7642-45f9-8b59-3a1224c3d581)
-</picture>
-+ 
+</picture>   
 <picture>![image](https://github.com/user-attachments/assets/490efb97-3972-46dc-be94-cc7b44055272)
 </picture>
 
